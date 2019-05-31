@@ -86,7 +86,8 @@ int main()
                printf("The result is：Point %d is not contained in any figure\n",m);  
 
       } 
-
+       system("pause");
        return 0;
 
 }
+
